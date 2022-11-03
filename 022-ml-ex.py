@@ -1,3 +1,8 @@
+"""
+Michael Roth <rothm@informatik.uni-freiburg.de>
+ml-ex-02.1
+"""
+
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
