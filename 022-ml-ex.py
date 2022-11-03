@@ -56,4 +56,3 @@ for i in range(num_of_iterations):
     j_iter.append(j)
 
 print(j_iter, w_iter)
-
